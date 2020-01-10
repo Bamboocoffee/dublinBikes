@@ -1,0 +1,28 @@
+h1 {
+    background-color:#234a55;
+    margin: 0%;
+    height: 100px;
+    }
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color:#234a55;
+    color: white;
+    width:100%;
+    }
+
+#myNavbar {
+    float: right;
+    }
+
+#dublinbikeslogo {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#dublincitycouncil {
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
